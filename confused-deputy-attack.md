@@ -1,4 +1,4 @@
-* Applies to use of the OAuth Implicit Grant for authentication.
+* Applies to using the OAuth Implicit Grant for authentication.
 * A legitimate client app 
 * handles a OAuth redirectUrl
 * which contains an access token 
