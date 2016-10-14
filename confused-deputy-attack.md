@@ -6,5 +6,7 @@
 * Severe: the attacker is not blind.
 * Mitigation: validate the access token audience.
 
-See http://stackoverflow.com/a/17439317/1108891
-See also https://github.com/openiddict/openiddict-samples/issues/13#issuecomment-250903091
+See 
+
+* http://stackoverflow.com/a/17439317/1108891
+* https://github.com/openiddict/openiddict-samples/issues/13#issuecomment-250903091
