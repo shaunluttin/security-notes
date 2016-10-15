@@ -4,7 +4,7 @@
 * While a user is signed into a domain, 
 * an attacker tricks the user into clicking a malicious URL.
 * Mitigation: per request XSRF tokens. 
-* Works only with side-effects, because the attacker is blind (needs citation).
+* The attacker is blind, because of the same-origin policy.
 
 See also
 
