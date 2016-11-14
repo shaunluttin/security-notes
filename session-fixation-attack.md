@@ -13,3 +13,4 @@ See
 * http://projects.webappsec.org/w/page/13246960/Session%20Fixation
 * http://cwe.mitre.org/data/definitions/384.html
 * http://www.computerweekly.com/answer/Session-fixation-protection-How-to-stop-session-fixation-attacks
+* https://github.com/aspnet/Session/issues/76
