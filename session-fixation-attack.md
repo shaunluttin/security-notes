@@ -5,7 +5,7 @@
 * and induces the user to access the app with that SID.
 * The former enables control of the victim's account;
 * the latter enables spying on the victim's activities.
-* Mitigation: 
+* Mitigation: use a new ID when upgrading from an anonymous to an authenticated session.
 
 See 
 
