@@ -3,8 +3,8 @@
 * and induces the user to login with that SID.
 * Or the attacker obtains a valid, authenticated SID,
 * and induces the user to access the app with that SID.
-* The former enables control,
-* while the latter enables spying.
+* The former enables control;
+* the latter enables spying.
 
 See 
 
