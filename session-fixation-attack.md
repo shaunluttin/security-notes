@@ -12,3 +12,4 @@ See
 * https://en.wikipedia.org/wiki/Session_fixation
 * http://projects.webappsec.org/w/page/13246960/Session%20Fixation
 * http://cwe.mitre.org/data/definitions/384.html
+* http://www.computerweekly.com/answer/Session-fixation-protection-How-to-stop-session-fixation-attacks
