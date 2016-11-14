@@ -5,7 +5,10 @@
 * and induces the user to access the app with that SID.
 * The former enables control of the victim's account;
 * the latter enables spying on the victim's activities.
+* Mitigation: 
 
 See 
 
 * https://en.wikipedia.org/wiki/Session_fixation
+* http://projects.webappsec.org/w/page/13246960/Session%20Fixation
+* http://cwe.mitre.org/data/definitions/384.html
